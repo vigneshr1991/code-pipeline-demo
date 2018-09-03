@@ -1,0 +1,23 @@
+{
+      "name": "code-pipeline-demo",
+      "version": "1.0.0",
+      "description": "",
+      "main": "index.js",
+      "scripts": {
+            "test": "echo \"Error: no test specified\" && exit 1"
+      },
+      "repository": {
+            "type": "git",
+            "url": "git+https://github.com/vigneshr1991/code-pipeline-demo.git"
+      },
+      "keywords": [],
+      "author": "",
+      "license": "ISC",
+      "bugs": {
+            "url": "https://github.com/vigneshr1991/code-pipeline-demo/issues"
+      },
+      "homepage": "https://github.com/vigneshr1991/code-pipeline-demo#readme",
+      "dependencies": {
+            "express": "^4.16.3"
+      }
+}
